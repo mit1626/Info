@@ -1,12 +1,12 @@
-{ 
-  "keys": [ 
-    { 
-      "kty": "RSA", 
-      "n": "vEDjv9eBJQF1agnncp8tcGgzVW5w47-IsPULjblKNFSaSQMGxEc56ivrns_puOtgh4eqzXTT89yQ8DVFI-MLBK1L_E_k1M_lvZcCTqlN-kR1QHM23Gr9ak7sW82kCR8QRMu7FO8Jrs1GC29IdT8nYrBpFY2k7GYB-MItJrSG9S80UbJZx00N0S-nXBD373cME7WDRLUo0xXQfgd6BL-lvvhJu5kgn9Mn61IN7QKbHMuObSn88KFSstZybyMVM8bBA0m8oFosvV-WRgSFlAg3m6TulXergDBi4dDYMsSatvgTBgiymJafZLp256HddA4v157HZeZ6gORSO7IwCeqwZQ", 
-      "e": "AQAB", 
-      "kid": "my-epic-key-1", 
-      "use": "sig", 
-      "alg": "RS256" 
-    } 
-  ] 
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "vEDjv9eBJQF1agnncp8tcGgzVW5w47-IsPULjblKNFSaSQMGxEc56ivrns_puOtgh4eqzXTT89yQ8DVFI-MLBK1L_E_k1M_lvZcCTqlN-kR1QHM23Gr9ak7sW82kCR8QRMu7FO8Jrs1GC29IdT8nYrBpFY2k7GYB-MItJrSG9S80UbJZx00N0S-nXBD373cME7WDRLUo0xXQfgd6BL-lvvhJu5kgn9Mn61IN7QKbHMuObSn88KFSstZybyMVM8bBA0m8oFosvV-WRgSFlAg3m6TulXergDBi4dDYMsSatvgTBgiymJafZLp256HddA4v157HZeZ6gORSO7IwCeqwZQ",
+      "e": "AQAB",
+      "kid": "my-epic-key-1",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
 }
