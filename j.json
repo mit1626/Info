@@ -7,6 +7,14 @@
       "kid": "my-epic-key-1",
       "use": "sig",
       "alg": "RS384"
+    },
+    {
+      "kty": "RSA",
+      "n": "pJkQmR0R4Bk30SeYi_wqBiSWmHlHCEKbR6xnmIrO9glXgN_f9SyfSgYkhpD1e72TUq9g_ntvVh9IwWtikvhPf_VSGiT2tEsI6mSJwXgFRL_8-zTrOAzqArWkDpEbaGSB6b6ufrHfbehPlBFIywTNVvEpAi5HklUu06_-VVqdvPjs_alB8-kv7mVTSXIThUSGjxDk3La88BNxAONirOgcq-6Q1HBrBGbqx2SI0jJuQwoHIniTL34v0eWZPaZuZ8ooR8vT1k0xbocesxtMSnUwq9tY7EJ4gMCqxRxqr_PpgMB8DI94Cm3DZvXrPCg9sbA30g_6L-cZUAcv2qKto8c7fw",
+      "e": "AQAB",
+      "kid": "my-epic-key-rs256",
+      "use": "sig",
+      "alg": "RS256"
     }
   ]
 }
